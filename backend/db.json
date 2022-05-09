@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@coder.com.br",
+      "senha": "Arthurolv"
+    },
+    {
+      "id": 2,
+      "name": "Maria Clara",
+      "email": "mjulia@coder.com.br",
+      "senha": "mclaralit"
+    }
+  ]
+}
